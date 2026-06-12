@@ -1,0 +1,2 @@
+# D-veloppement-de-syst-me-de-navigation-pour-navette-autonome
+Système de navigation d’une navette autonome basé sur GPS et accéléromètre. Les données sont fusionnées par un filtre de Kalman pour améliorer la précision de position et vitesse. Le système réduit le bruit des capteurs et corrige les erreurs GPS en temps réel, permettant une estimation fiable de la trajectoire et une navigation stable.
